@@ -15,11 +15,7 @@
 
 </p>
 
-* 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
 
-* 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
-
-* 💻 Currently building Masked Image Modeling models for Remote Sensing data. 
 
 ### 🖥️ Open-Source Projects
 
