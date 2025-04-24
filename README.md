@@ -14,17 +14,8 @@
 ## 🧠 Transformer架构
 
 <div align="center">
-  <div id="transformer-container" style="width: 80%; margin: 0 auto; position: relative;">
-    <!-- 交互式Transformer架构图 -->
-    <div style="position: relative; width: 100%; padding-bottom: 60%; overflow: hidden;">
-      <iframe 
-        src="https://transformer-visualizer.vercel.app/" 
-        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-        allowfullscreen>
-      </iframe>
-    </div>
-    <p><i>👆 可拖动交互的Transformer模型架构可视化 (可在框内拖动组件)</i></p>
-  </div>
+<img src="./images/transformer.png" alt="Attention Is All You Need论文首页" width="80%" />
+<p><i>👆 "Attention Is All You Need" - Transformer架构奠基论文</i></p>
 </div>
 
 <details>
