@@ -1,7 +1,6 @@
 # 🚀 XIK的AI实验室
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vimalverma558/vimalverma558/master/img/hello.gif" width="20%">
   <h3>专注于大模型与检索增强生成(RAG)的研究与应用</h3>
 </div>
 
@@ -14,7 +13,7 @@
 ## 🧠 Transformer架构
 
 <div align="center">
-<img src="./images/transformer.png" alt="Attention Is All You Need论文首页" width="80%" />
+<img src="./images/transformer.png" alt="Attention Is All You Need论文首页" width="40%" />
 <p><i>👆 "Attention Is All You Need" - Transformer架构奠基论文</i></p>
 </div>
 
@@ -55,9 +54,6 @@ graph TD
 
 ### [AI China Town: 斯坦福小镇中国版](https://github.com/xkj0127/ai_china_town)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/68011645/89026666-ad233a80-d35b-11ea-9f4b-d3fe26ae12cb.png" width="60%" />
-</div>
 
 **AI China Town** 是斯坦福小镇的中国本地化版本，特点包括：
 - 使用本地模型部署，无需联网
@@ -82,9 +78,7 @@ graph TD
 
 ### [KnowledgeMapNotes: 知识图谱笔记系统](https://github.com/xkj0127/KnowledgeMapNotes)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/xkj0127/KnowledgeMapNotes/main/screenshot.png" width="60%" />
-</div>
+
 
 **KnowledgeMapNotes** 是一个基于知识图谱的笔记系统，帮助用户以图谱形式组织和管理知识点，实现知识间关联的可视化展示与导航。
 
@@ -138,9 +132,5 @@ graph TD
 </p>
 
 ---
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=xkj0127&color=blueviolet&style=flat-square&label=访问量" alt="访问量计数器" />
-</p>
 
 > "AI不是为了替代人类，而是为了增强人类能力，拓展我们的认知边界。"
