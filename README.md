@@ -47,14 +47,17 @@
 
 ```mermaid
 graph TD
-    A[大语言模型] --> B[预训练模型]
-    A --> C[微调技术]
-    B --> D[Transformer架构]
-    C --> E[RLHF]
-    C --> F[LoRA微调]
-    G[检索增强生成] --> H[向量数据库]
-    G --> I[文本嵌入]
-    G --> J[上下文优化]
+    A[大语言模型] --> B[Transformer架构优化]
+    A --> C[RAG技术]
+    B --> D[注意力机制改进]
+    B --> E[长文本处理]
+    C --> F[知识图谱增强]
+    C --> G[语义检索]
+    C --> H[上下文工程]
+    I[应用开发] --> J[Vue+FastAPI]
+    I --> K[轻量级部署]
+    L[领域应用] --> M[智能问答]
+    L --> N[知识管理]
 ```
 
 ## 📚 主要项目
@@ -113,22 +116,22 @@ graph TD
 ## 🛠️ 技术专长
 
 ### 大语言模型 (LLM)
-- 模型训练与调优
-- 多模态融合
-- RLHF (Reinforcement Learning from Human Feedback)
-- 参数高效微调 (LoRA, P-Tuning, Prompt-Tuning)
+- Transformer架构深度优化
+- 自注意力机制变体研究
+- 上下文窗口扩展技术
+- 参数高效微调 (LoRA, P-Tuning)
 
 ### 检索增强生成 (RAG)
-- 嵌入模型选择与优化
-- 向量数据库构建 (Milvus, Pinecone, Faiss)
-- 语义检索策略优化
-- 上下文窗口与长文本处理
+- 知识图谱增强检索
+- 混合检索策略设计
+- 向量数据库优化 (Milvus, Pinecone, Faiss)
+- 上下文压缩与重组方法
 
 ### 应用开发
-- LLM应用架构设计
-- 前后端分离应用开发 (Vue, FastAPI)
-- 高性能API设计
-- AI系统部署与监控
+- 轻量级AI应用架构
+- Vue+FastAPI全栈开发
+- 模型本地部署与优化
+- 中文场景AI体验优化
 
 ## 📊 数据可视化
 
