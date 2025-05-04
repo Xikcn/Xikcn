@@ -54,14 +54,14 @@ graph TD
 ## 📊 数据可视化
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkj0127&layout=compact&theme=radical" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xkj0127&theme=radical" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xikcn&layout=compact&theme=radical" width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Xikcn&theme=radical" width="45%" />
 </div>
 
 ## 🔗 了解更多
 
 <p align="center">
-  <a href="https://github.com/xkj0127"><img src="https://img.shields.io/badge/GitHub-xkj0127-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Xikcn"><img src="https://img.shields.io/badge/GitHub-Xikcn-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
