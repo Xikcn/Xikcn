@@ -10,28 +10,6 @@
   <img src="https://img.shields.io/badge/Transformer-工程师-orange?style=for-the-badge" />
 </p>
 
-## 🧠 Transformer架构
-
-<div align="center">
-<img src="./images/transformer.png" alt="Attention Is All You Need论文首页" width="40%" />
-<p><i>👆 "Attention Is All You Need" - Transformer架构奠基论文</i></p>
-</div>
-
-<details>
-<summary><b>🔍 点击展开Transformer详细结构说明</b></summary>
-
-### Transformer架构核心组件
-
-1. **输入嵌入 (Input Embedding)**：将输入token转换为向量表示
-2. **位置编码 (Positional Encoding)**：为序列中的每个位置添加位置信息
-3. **多头注意力机制 (Multi-Head Attention)**：
-   - 查询(Query)、键(Key)、值(Value)三个映射矩阵
-   - 并行计算多个注意力"头"，捕获不同角度的信息
-4. **前馈神经网络 (Feed Forward Network)**：由两个线性变换和ReLU激活函数组成
-5. **Add & Norm**：残差连接和层归一化，保证训练稳定性
-6. **编码器-解码器结构**：用于序列到序列任务
-
-</details>
 
 ## 🔥 核心技术栈
 
