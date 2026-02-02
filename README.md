@@ -11,13 +11,6 @@
 </p>
 
 
-## 📊 数据可视化
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xikcn&layout=compact&theme=radical" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Xikcn&theme=radical" width="45%" />
-</div>
-
 ## 🔗 了解更多
 
 <p align="center">
